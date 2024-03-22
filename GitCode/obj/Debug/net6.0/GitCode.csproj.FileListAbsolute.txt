@@ -1,0 +1,14 @@
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\GitCode\GitCode\bin\Debug\net6.0\GitCode.exe
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\GitCode\GitCode\bin\Debug\net6.0\GitCode.deps.json
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\GitCode\GitCode\bin\Debug\net6.0\GitCode.runtimeconfig.json
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\GitCode\GitCode\bin\Debug\net6.0\GitCode.dll
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\GitCode\GitCode\bin\Debug\net6.0\GitCode.pdb
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\GitCode\GitCode\obj\Debug\net6.0\GitCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\GitCode\GitCode\obj\Debug\net6.0\GitCode.AssemblyInfoInputs.cache
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\GitCode\GitCode\obj\Debug\net6.0\GitCode.AssemblyInfo.cs
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\GitCode\GitCode\obj\Debug\net6.0\GitCode.csproj.CoreCompileInputs.cache
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\GitCode\GitCode\obj\Debug\net6.0\GitCode.dll
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\GitCode\GitCode\obj\Debug\net6.0\refint\GitCode.dll
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\GitCode\GitCode\obj\Debug\net6.0\GitCode.pdb
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\GitCode\GitCode\obj\Debug\net6.0\GitCode.genruntimeconfig.cache
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\GitCode\GitCode\obj\Debug\net6.0\ref\GitCode.dll

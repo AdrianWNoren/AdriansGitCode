@@ -1,0 +1,14 @@
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\adrianGIT\adrianGIT\bin\Debug\net6.0\adrianGIT.exe
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\adrianGIT\adrianGIT\bin\Debug\net6.0\adrianGIT.deps.json
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\adrianGIT\adrianGIT\bin\Debug\net6.0\adrianGIT.runtimeconfig.json
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\adrianGIT\adrianGIT\bin\Debug\net6.0\adrianGIT.dll
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\adrianGIT\adrianGIT\bin\Debug\net6.0\adrianGIT.pdb
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\adrianGIT\adrianGIT\obj\Debug\net6.0\adrianGIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\adrianGIT\adrianGIT\obj\Debug\net6.0\adrianGIT.AssemblyInfoInputs.cache
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\adrianGIT\adrianGIT\obj\Debug\net6.0\adrianGIT.AssemblyInfo.cs
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\adrianGIT\adrianGIT\obj\Debug\net6.0\adrianGIT.csproj.CoreCompileInputs.cache
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\adrianGIT\adrianGIT\obj\Debug\net6.0\adrianGIT.dll
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\adrianGIT\adrianGIT\obj\Debug\net6.0\refint\adrianGIT.dll
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\adrianGIT\adrianGIT\obj\Debug\net6.0\adrianGIT.pdb
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\adrianGIT\adrianGIT\obj\Debug\net6.0\adrianGIT.genruntimeconfig.cache
+C:\Users\adrian.noren2\Desktop\Skola\Code\c# projects\adrianGIT\adrianGIT\obj\Debug\net6.0\ref\adrianGIT.dll
